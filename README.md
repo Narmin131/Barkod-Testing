@@ -1,2 +1,2 @@
 Barkod-Testing <br/>
-Project Link : barkodtesting.netlify.app
+Project Link : https://barkodtesting.netlify.app
